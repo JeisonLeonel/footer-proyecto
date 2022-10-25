@@ -1,0 +1,63 @@
+body{
+    font-family:'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+    letter-spacing: 1px;
+}
+footer{
+    display: flex;
+    background-color: red;
+    height: 250px;
+    color: white;
+    align-items: center;
+}
+.primero{
+    position: relative;
+    left: 40px;
+}
+.primero img{
+    position: relative;
+    bottom: 40px;
+}
+.primero p{
+    position: relative;
+    bottom: 20px;
+    margin-bottom: -15px;
+}
+hr{
+    width: 2px;
+    height: 180px;
+    background-color: white;
+    margin-top: 30px;
+    margin: 0;
+} 
+#linea-uno{
+    position: relative;
+    left: 140px;
+}
+.segundo{
+    position: relative;
+    left: 190px;
+}
+.segundo p{
+    margin-bottom: -15px;
+    position: relative;
+    bottom: 15px;
+}
+#linea-dos{
+    position: relative;
+    left: 240px;
+}
+.tercero{
+    position: relative;
+    left: 340px;
+    bottom: 30px;
+}
+#redes img{
+    background-color: white;
+    border-radius: 50%;
+    width: 32px;
+    margin-right: 15px;
+}
